@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with My To Do List
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Coded in React, CSS, and HTML. Functions as as simple to do app
 
 ## Available Scripts
 
